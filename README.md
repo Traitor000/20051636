@@ -12,3 +12,14 @@
 ![Alt text](image-2.png)
 
 ![Alt text](image-3.png)
+
+
+# Web Output 
+
+![Alt text](image-5.png)
+
+# Mobile-responsive output
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
